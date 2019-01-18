@@ -1,0 +1,1 @@
+# Bell_LaPadula_Model
